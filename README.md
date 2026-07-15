@@ -49,12 +49,12 @@ Once running, simply type your message and press Enter. Type `exit` or `quit` to
 
 ## Project Structure
 
-ai-chatbot/
-├── chatbot.py
-├── requirements.txt
-├── .env (not tracked, contains your API key)
-├── .gitignore
-└── README.md
+ai-chatbot
+chatbot.py
+requirements.txt
+.env (not tracked, contains your API key)
+.gitignore
+README.md
 
 ## Author
 
